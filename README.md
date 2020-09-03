@@ -12,7 +12,9 @@ https://www.amazon.com/gp/product/B076KJZ5QM/ref=ppx_yo_dt_b_search_asin_title?i
 https://www.ebay.com/itm/12bit-Precision-AS5600-Encoder-Magnetic-Induction-Angle-Measuring-Sensor-Module/264739232981?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
 
+
 #Connections
+
 AS5600
 SCL-15,SDA-4
 
